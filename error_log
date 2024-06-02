@@ -1,0 +1,49 @@
+[04-Jun-2023 17:19:39 UTC] Cron reschedule event error for hook: forminator_send_export, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":[],"interval":60}
+[05-Jun-2023 19:06:36 UTC] Cron reschedule event error for hook: wpforms_email_summaries_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"wpforms_email_summaries_weekly","args":[],"interval":604800}
+[28-Jul-2023 09:45:39 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[15-Sep-2023 09:05:34 UTC] Cron reschedule event error for hook: litespeed_task_lqip, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"litespeed_filter","args":[],"interval":60}
+[19-Sep-2023 12:19:21 UTC] Cron reschedule event error for hook: forminator_process_report, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":[],"interval":60}
+[20-Sep-2023 03:26:37 UTC] Cron reschedule event error for hook: litespeed_task_lqip, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"litespeed_filter","args":[],"interval":60}
+[27-Sep-2023 05:31:19 UTC] Cron reschedule event error for hook: litespeed_task_lqip, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"litespeed_filter","args":[],"interval":60}
+[31-Oct-2023 09:51:08 UTC] Cron reschedule event error for hook: forminator_process_report, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":[],"interval":60}
+[08-Nov-2023 21:19:03 UTC] Cron reschedule event error for hook: litespeed_task_imgoptm_pull, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"litespeed_filter","args":[],"interval":60}
+[13-Nov-2023 01:37:05 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[31-Dec-2023 05:04:29 UTC] Cron reschedule event error for hook: forminator_process_report, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":[],"interval":60}
+[05-Feb-2024 05:30:22 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[05-Feb-2024 22:05:59 UTC] Cron reschedule event error for hook: forminator_process_report, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":[],"interval":60}
+[16-Feb-2024 07:30:22 UTC] PHP Warning:  Undefined property: seraph_accel\AnyObj::$tmCur in /home/thetelry/public_html/wp-content/plugins/seraphinite-accelerator-ext/oper.php on line 637
+[16-Feb-2024 07:30:22 UTC] PHP Warning:  Undefined property: seraph_accel\AnyObj::$timeout in /home/thetelry/public_html/wp-content/plugins/seraphinite-accelerator-ext/oper.php on line 637
+[22-Feb-2024 19:49:07 UTC] PHP Warning:  Undefined array key "width" in /home/thetelry/public_html/wp-includes/media.php on line 1228
+[22-Feb-2024 19:49:07 UTC] PHP Warning:  Undefined array key "height" in /home/thetelry/public_html/wp-includes/media.php on line 1229
+[22-Feb-2024 19:49:08 UTC] PHP Warning:  Undefined array key "width" in /home/thetelry/public_html/wp-includes/media.php on line 1228
+[22-Feb-2024 19:49:08 UTC] PHP Warning:  Undefined array key "height" in /home/thetelry/public_html/wp-includes/media.php on line 1229
+[22-Feb-2024 19:49:52 UTC] PHP Warning:  Undefined array key "width" in /home/thetelry/public_html/wp-includes/media.php on line 1228
+[22-Feb-2024 19:49:52 UTC] PHP Warning:  Undefined array key "height" in /home/thetelry/public_html/wp-includes/media.php on line 1229
+[22-Feb-2024 19:49:53 UTC] PHP Warning:  Undefined array key "width" in /home/thetelry/public_html/wp-includes/media.php on line 1228
+[22-Feb-2024 19:49:53 UTC] PHP Warning:  Undefined array key "height" in /home/thetelry/public_html/wp-includes/media.php on line 1229
+[22-Feb-2024 19:58:51 UTC] PHP Warning:  Undefined array key "width" in /home/thetelry/public_html/wp-includes/media.php on line 1228
+[22-Feb-2024 19:58:51 UTC] PHP Warning:  Undefined array key "height" in /home/thetelry/public_html/wp-includes/media.php on line 1229
+[22-Feb-2024 19:58:52 UTC] PHP Warning:  Undefined array key "width" in /home/thetelry/public_html/wp-includes/media.php on line 1228
+[22-Feb-2024 19:58:52 UTC] PHP Warning:  Undefined array key "height" in /home/thetelry/public_html/wp-includes/media.php on line 1229
+[22-Feb-2024 19:58:58 UTC] PHP Warning:  Undefined array key "width" in /home/thetelry/public_html/wp-includes/media.php on line 1228
+[22-Feb-2024 19:58:58 UTC] PHP Warning:  Undefined array key "height" in /home/thetelry/public_html/wp-includes/media.php on line 1229
+[22-Feb-2024 19:58:59 UTC] PHP Warning:  Undefined array key "width" in /home/thetelry/public_html/wp-includes/media.php on line 1228
+[22-Feb-2024 19:58:59 UTC] PHP Warning:  Undefined array key "height" in /home/thetelry/public_html/wp-includes/media.php on line 1229
+[22-Feb-2024 19:59:01 UTC] PHP Warning:  Undefined array key "width" in /home/thetelry/public_html/wp-includes/media.php on line 1228
+[22-Feb-2024 19:59:01 UTC] PHP Warning:  Undefined array key "height" in /home/thetelry/public_html/wp-includes/media.php on line 1229
+[22-Feb-2024 19:59:02 UTC] PHP Warning:  Undefined array key "width" in /home/thetelry/public_html/wp-includes/media.php on line 1228
+[22-Feb-2024 19:59:02 UTC] PHP Warning:  Undefined array key "height" in /home/thetelry/public_html/wp-includes/media.php on line 1229
+[22-Feb-2024 19:59:05 UTC] PHP Warning:  Undefined array key "width" in /home/thetelry/public_html/wp-includes/media.php on line 1228
+[22-Feb-2024 19:59:05 UTC] PHP Warning:  Undefined array key "height" in /home/thetelry/public_html/wp-includes/media.php on line 1229
+[22-Feb-2024 19:59:06 UTC] PHP Warning:  Undefined array key "width" in /home/thetelry/public_html/wp-includes/media.php on line 1228
+[22-Feb-2024 19:59:06 UTC] PHP Warning:  Undefined array key "height" in /home/thetelry/public_html/wp-includes/media.php on line 1229
+[23-Feb-2024 07:07:55 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[23-Feb-2024 07:08:00 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[23-Feb-2024 14:37:27 UTC] Cron reschedule event error for hook: backuply_clean_tmp, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"backuply_daily","args":[],"interval":86400}
+[05-Mar-2024 09:54:27 UTC] PHP Warning:  Attempt to read property "canonical" on bool in /home/thetelry/public_html/wp-content/plugins/wordpress-seo/src/integrations/front-end/feed-improvements.php on line 164
+[05-Mar-2024 09:54:27 UTC] PHP Warning:  Attempt to read property "canonical" on bool in /home/thetelry/public_html/wp-content/plugins/wordpress-seo/src/integrations/front-end/feed-improvements.php on line 164
+[05-Mar-2024 09:54:27 UTC] PHP Warning:  Attempt to read property "canonical" on bool in /home/thetelry/public_html/wp-content/plugins/wordpress-seo/src/integrations/front-end/feed-improvements.php on line 164
+[15-Apr-2024 21:12:52 UTC] PHP Warning:  Attempt to read property "canonical" on bool in /home/thetelry/public_html/wp-content/plugins/wordpress-seo/src/integrations/front-end/feed-improvements.php on line 164
+[15-Apr-2024 21:12:52 UTC] PHP Warning:  Attempt to read property "canonical" on bool in /home/thetelry/public_html/wp-content/plugins/wordpress-seo/src/integrations/front-end/feed-improvements.php on line 164
+[15-Apr-2024 21:12:52 UTC] PHP Warning:  Attempt to read property "canonical" on bool in /home/thetelry/public_html/wp-content/plugins/wordpress-seo/src/integrations/front-end/feed-improvements.php on line 164
+[14-May-2024 09:39:09 UTC] PHP Warning:  stream_socket_enable_crypto(): SSL/TLS already set-up for this stream in /home/thetelry/public_html/wp-content/plugins/nitropack/nitropack-sdk/vendor/nitropack/httpclient/src/HttpClient.php on line 1676
